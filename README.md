@@ -3,7 +3,6 @@
 A web application that allows teachers to upload lecture content to an 
 AI-powered chatbot and automatically receive generated quiz files.
 
-> 🚧 Currently in development
 
 ## My Contribution
 Built the front-end interface using React, HTML, and CSS.
